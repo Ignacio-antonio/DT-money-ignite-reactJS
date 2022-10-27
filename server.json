@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-10-26T19:34:02.571Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-10-26T19:30:02.571Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-26T22:43:20.042Z",
+      "id": 4
+    },
+    {
+      "description": "Bolo",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-26T23:05:33.809Z",
+      "id": 5
+    },
+    {
+      "description": "Ventilador",
+      "price": 120,
+      "category": "Móveis",
+      "type": "income",
+      "createdAt": "2022-10-26T23:09:24.360Z",
+      "id": 6
+    },
+    {
+      "description": "Fifa 2023",
+      "price": 250,
+      "category": "Jogo PS4",
+      "type": "outcome",
+      "createdAt": "2022-10-26T23:21:32.881Z",
+      "id": 7
+    },
+    {
+      "description": "LOL",
+      "price": 150,
+      "category": "Moba",
+      "type": "outcome",
+      "createdAt": "2022-10-27T00:43:19.484Z",
+      "id": 8
+    }
+  ]
+}
